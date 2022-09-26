@@ -7,6 +7,9 @@ import java.util.TreeSet;
 
 public class Create {
 public static void main(String[] args) {
+	System.out.println("vbfvebhve");
+	System.out.println("bfveskkbnbhve");
+	System.out.println("vbfvebhdlbmkve");
 	//1.1
 	Set<Integer> S = new HashSet<Integer>();
 	S.add(10);
